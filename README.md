@@ -1,2 +1,2 @@
-# Temario_DAL
-Temario de probabilidad y estadística
+# TemarioPE
+Descripciones de los temas del T1
